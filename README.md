@@ -32,6 +32,7 @@ You could use a simple script to turn this into a hexadecimal array:
 ![image](https://github.com/user-attachments/assets/d24c600a-0fb9-4858-b6d3-657027c51ddf)
 
 Flow in main.c:
+
 ![image](https://github.com/user-attachments/assets/54e29e23-a9da-4ca4-a21d-77bed2e3a38a)
 
 Sample Terminal Run:
